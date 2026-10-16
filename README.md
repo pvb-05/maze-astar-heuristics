@@ -149,19 +149,3 @@ Khi chạy thành công, chương trình sẽ:
 Tác giả: Bac Phan  
 Email: phanvanbac15112005@gmail.com
 
-## 12. Ghi chú
-
-Đây là một dự án học tập đơn giản, tập trung vào việc hiểu và triển khai thuật toán A* trong bài toán giải mê cung. Nếu bạn muốn mở rộng, có thể phát triển thêm các tính năng như:
-
-- hỗ trợ nhiều loại mê cung hơn
-- trực quan hóa quá trình duyệt trạng thái
-- so sánh hiệu suất giữa các heuristic qua từng bài toán
-- xây dựng giao diện đồ họa bằng PyGame hoặc Tkinter
-
----
-
-Nếu bạn muốn, mình có thể tiếp tục giúp bạn:
-- viết thêm mô tả chi tiết theo kiểu báo cáo đồ án
-- chỉnh sửa README sang phiên bản chuyên nghiệp hơn
-- tạo file `requirements.txt` hoặc `LICENSE`
-- viết phần "Mô tả thuật toán A*" theo chuẩn báo cáo khoa học
